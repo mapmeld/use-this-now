@@ -8,6 +8,10 @@ No new updates
 
 ## Arabic NLP
 
+### Datasets (various uses)
+
+https://twitter.com/zaidalyafeai/status/1448667731675398145
+
 ### Dialect + Generative Model
 
 Based on AraGPT2, with ArabertPreprocessor: https://huggingface.co/monsoon-nlp/dialect-ar-gpt-2021
