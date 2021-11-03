@@ -125,4 +125,6 @@ No new changes
 
 ## Toxicity / Hate Speech in NLP
 
-Latest: https://mapmeld.medium.com/its-not-easy-being-clean-ee217ed4825c
+Latest overview post: https://mapmeld.medium.com/its-not-easy-being-clean-ee217ed4825c
+
+Perspective API is available for more languages: https://developers.perspectiveapi.com/s/about-the-api-attributes-and-languages
