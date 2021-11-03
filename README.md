@@ -14,7 +14,10 @@ https://twitter.com/zaidalyafeai/status/1448667731675398145
 
 ### Dialect + Generative Model
 
-Based on AraGPT2, with ArabertPreprocessor: https://huggingface.co/monsoon-nlp/dialect-ar-gpt-2021
+- My new model based on AraGPT2, with ArabertPreprocessor: https://huggingface.co/monsoon-nlp/dialect-ar-gpt-2021
+- https://sites.google.com/view/nadi-shared-task
+- https://twitter.com/CamelNlp/status/1328427861657722881
+- https://aclanthology.org/2021.wanlp-1.1/
 
 ### Pre-trained Language Models
 
@@ -57,6 +60,7 @@ Updated and expanded Arabic dataset from NYU AD: https://camel.abudhabi.nyu.edu/
 ## I18n
 
 - Brave browser added many translations to MetaMask wallet, including RTL languages
+- To find and share translations for cryptocurrency: https://github.com/nanexcool/defi18n
 
 ## JAX tutorials
 
