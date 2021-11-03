@@ -64,11 +64,9 @@ Updated and expanded Arabic dataset from NYU AD: https://camel.abudhabi.nyu.edu/
 
 ## JAX tutorials
 
-TBD
+A video tutorial: https://www.youtube.com/watch?v=SstuvS-tVc0
 
-## Julia lang
-
-TBD on classification
+Notebook tutorials: https://github.com/AakashKumarNain/TF_JAX_tutorials
 
 ## Model Editing
 
