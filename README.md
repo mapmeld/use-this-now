@@ -101,7 +101,7 @@ TBD
 
 ## South Asian Language Model Projects
 
-- Use Google's MuRIL model for Hindi, Tamil, Bangla, and other main languages of India (original and transliterated to Latin alphabet)
+- Use Google's MuRIL model for Hindi, Tamil, Bangla, and other main languages of India (original and transliterated to Latin alphabet). [HuggingFace](https://huggingface.co/models?search=muril) and [TFHub](https://tfhub.dev/google/MuRIL/1) links.
 - I have a few transfer learning experiments for Dhivehi , and local developers created TTS https://huggingface.co/models?filter=dv
 
 ## Text Augmentation and Attack Libraries
