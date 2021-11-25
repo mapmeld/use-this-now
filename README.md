@@ -127,10 +127,12 @@ Or largest pretrained ByT5 model you can use: https://huggingface.co/models?sear
 
 ## Tokenization
 
-No new changes
+- Measuring loss on specific tokens during GPT2 finetuning, and dearth of examples in GPT-NYC dataset https://mapmeld.medium.com/measuring-loss-on-new-gpt-tokens-7a4ab570a5df
 
 ## Toxicity / Hate Speech in NLP
 
 Latest overview post: https://mapmeld.medium.com/its-not-easy-being-clean-ee217ed4825c
 
 Perspective API is available for more languages: https://developers.perspectiveapi.com/s/about-the-api-attributes-and-languages
+
+Annotator bias when labeling toxicity of AAE/AAVE language https://arxiv.org/abs/2111.07997
