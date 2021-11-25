@@ -87,7 +87,7 @@ No updates
 
 ## NLP + AAVE
 
-No updates
+- Annotator bias when labeling toxicity of AAE/AAVE language https://arxiv.org/abs/2111.07997
 
 ## Object recognition / YOLO
 
