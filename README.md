@@ -136,3 +136,5 @@ Latest overview post: https://mapmeld.medium.com/its-not-easy-being-clean-ee217e
 Perspective API is available for more languages: https://developers.perspectiveapi.com/s/about-the-api-attributes-and-languages
 
 Annotator bias when labeling toxicity of AAE/AAVE language https://arxiv.org/abs/2111.07997
+
+New effort to create a dataset: https://github.com/surge-ai/toxicity
