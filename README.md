@@ -71,7 +71,9 @@ Notebook tutorials: https://github.com/AakashKumarNain/TF_JAX_tutorials
 ## Model Editing
 
 - Deleting / forgetting information from models continues to be active research.
-- Patching / updating models continues to be active research. The post-processing scores which I used here were completely off.
+-- Counterfactuals in avoiding memorized sequences in models https://arxiv.org/abs/2112.12938
+
+- Patching / updating models continues to be active research.
 
 ## Model Introspection
 
