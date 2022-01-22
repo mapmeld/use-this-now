@@ -123,7 +123,10 @@ No new changes
 
 ## Thai NLP
 
-Pretrained models: WangchanBERTa https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased
+Pretrained models: 
+
+- WangchanBERTa https://huggingface.co/airesearch/wangchanberta-base-att-spm-uncased
+- HoogBERTa https://github.com/lstnlp/HoogBERTa
 
 Or largest pretrained ByT5 model you can use: https://huggingface.co/models?search=byt5
 
