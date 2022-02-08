@@ -93,7 +93,7 @@ No updates
 
 ## Object recognition / YOLO
 
-TBD
+- OOD detection for object recognition https://arxiv.org/abs/2202.01197
 
 ## OpenStreetMap
 
@@ -120,6 +120,7 @@ No new changes
 
 - Kinyarwanda and Luganda are success stories on Mozilla CommonVoice
 - TTS library continues to be developed by Coqui
+- Google mSLAM multilingual model for text and speech https://arxiv.org/abs/2202.01374
 
 ## Thai NLP
 
@@ -143,3 +144,5 @@ Perspective API is available for more languages: https://developers.perspectivea
 Annotator bias when labeling toxicity of AAE/AAVE language https://arxiv.org/abs/2111.07997
 
 New effort to create a dataset: https://github.com/surge-ai/toxicity
+
+A "Red Team" language model helping find problem responses in other language models https://deepmind.com/research/publications/2022/Red-Teaming-Language-Models-with-Language-Models
