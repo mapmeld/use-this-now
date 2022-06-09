@@ -57,6 +57,8 @@ My Spanish seq2seq model: https://huggingface.co/monsoon-nlp/es-seq2seq-gender-d
 
 Updated and expanded Arabic dataset from NYU AD: https://camel.abudhabi.nyu.edu/arabic-parallel-gender-corpus/
 
+Large-scale Facebook / Meta project: https://ai.facebook.com/blog/measure-fairness-and-mitigate-ai-bias/
+
 ## I18n
 
 - Brave browser added many translations to MetaMask wallet, including RTL languages
