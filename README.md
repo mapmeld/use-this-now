@@ -30,12 +30,12 @@ TBD
 
 ## Blockchain
 
-- Islamic Finance eBook / GitHub: https://islamicfinance.github.io/
+- Islamic Finance eBook / GitHub: https://islamicfinance-book.github.io/ - new URL
 - Flint language is rarely maintained / unmaintained: https://github.com/flintlang/flint
 
 ## Census API
 
-No new changes
+I wrote an update about using the 2020 Census API and calculating 6+ race population by state and county https://blog.georeactor.com/census-1
 
 ## Crowdfunded AI 
 
@@ -150,3 +150,5 @@ Annotator bias when labeling toxicity of AAE/AAVE language https://arxiv.org/abs
 New effort to create a dataset: https://github.com/surge-ai/toxicity
 
 A "Red Team" language model helping find problem responses in other language models https://deepmind.com/research/publications/2022/Red-Teaming-Language-Models-with-Language-Models
+
+Request permission to access this dataset: https://huggingface.co/datasets/irlab-udc/metahate
